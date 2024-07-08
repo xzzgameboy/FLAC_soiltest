@@ -1,2 +1,2 @@
-# FLAC_soiltest
-Python Scripts for FLAC3D Soil Tests
+# FLAC_SoilModel
+Soil Model module for FLAC3D V.70
